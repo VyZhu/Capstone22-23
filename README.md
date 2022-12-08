@@ -1,2 +1,2 @@
-# Capstone22-23
-adsfklj
+# Flexibility Tracking Using AI Pose Estimation
+  An andriod mobile app is made to help and track the body flexibility of the user.  Mediapipe is used for pose detection of the user.  Kivy is the framework of the app.  Because scores are tracked, a login functionality is needed for the app.  All the user information and the scores are stored in a database in Firebase.  Pyrebase is used to access these data.  The app includes a welcome screen, login/create account page, option menu, flexibility test menu, instructions, testing using body detection model, score display, results page, and graphs.  The only flexibility test the app has right now is the stand and reach test.
